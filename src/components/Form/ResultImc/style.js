@@ -5,16 +5,19 @@ const styles = StyleSheet.create({
         flex: 1,
         marginTop: 20,
         paddingTop: 15,
-        borderRadius: 60,
         alignItems: "center",
-    },
-    numberImc: {
         width: "100%",
+    },
+    resultImc: {
         fontSize: 48,
         color: "#FF0043",
+        fontWeight: "bold",
+    },
+    titleResultImc: {
+        fontSize: 18,
+        color: "#ff0043",
         fontWeight: "bold"
-    }
-    ,
+    },
     information: {
         fontSize: 18,
         color: "#FF0043",
